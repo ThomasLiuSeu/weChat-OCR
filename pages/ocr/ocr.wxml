@@ -1,0 +1,2 @@
+<!--pages/ocr/ocr.wxml-->
+<button bindtap='chooseImage'>选择银行卡</button>
